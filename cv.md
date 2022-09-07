@@ -33,4 +33,4 @@ __National Aviation University Kyiv, Ukraine__
 _Computer engineering_
 
 ## Language Skills
-Intermediate (B1)
+* English - Intermediate (B1)
