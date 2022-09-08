@@ -6,6 +6,7 @@
 * __LinkedIn__: _https://www.linkedin.com/in/vladimir-humeniuk/_
 
 ## About Me
+I am young funny boy who have a lot of goals. I like to travel with my cat Peach and friends. In free time I am  learning new front-end developing technologies. Also I am really communicative person so I like to work in a team.  
 ## Skills 
 * HTML
 * CSS
@@ -14,9 +15,11 @@
 * JavaScript (basic)
 * AngularJS
 ## Code example
+__Create__ a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed.
 ```
-function numberToString(num) {
-  return num + ''
+function sumTwoSmallestNumbers(numbers) {  
+  let [ a, b ] = numbers.sort((a, b) => a - b)
+  return a + b
 }
 ```
 ## Work experience
