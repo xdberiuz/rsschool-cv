@@ -195,21 +195,6 @@ li {
     background-repeat: no-repeat
 }
 
-.linkedin {
-    background-image: url(../assets/img/linkedinLink.png)
-}
-
-.github {
-    background-image: url(../assets/img/githunLink.png)
-}
-
-.facebook {
-    background-image: url(../assets/img/facebookLink.png)
-}
-
-.telegram {
-    background-image: url(../assets/img/telegramLink.png)
-}
 
 .main {
     display: -webkit-box;
